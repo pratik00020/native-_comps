@@ -31,7 +31,7 @@ const TextInANest = () => {
       );
     };
     
-    const styles = StyleSheet.create({
+    const Styless = StyleSheet.create({
       baseText: {
         fontFamily: 'Cochin',
       },

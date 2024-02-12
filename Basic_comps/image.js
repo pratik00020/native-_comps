@@ -5,7 +5,7 @@
 import React from 'react';
 import {View, Image, StyleSheet} from 'react-native';
 
-const styles = StyleSheet.create({
+const Styless = StyleSheet.create({
   container: {
     paddingTop: 50,
   },
